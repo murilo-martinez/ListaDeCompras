@@ -1,1 +1,1 @@
-# ListaDeCompras
+#Projeto Lista de Compras
